@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+	font-family:inter;
+}
+#main{
+	display:flex;
+	margin:auto;
+	justify-content:center;	
+	
+}
+#box{
+	width:200px;
+	height:200px;
+	color:#6c2375;
+	background-color:#9dd4e0;
+	border:2px solid black;
+	text-align:center;	
+	align-content:center;
+	align-self:center;
+	align-items:center;
+}
